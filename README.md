@@ -1,2 +1,3 @@
 # Data-Analyst-internship
-Here is my internship tasks @ Cognifyz Technologies
+Here are my internship tasks @ Cognifyz Technologies
+I have completed my first task.
