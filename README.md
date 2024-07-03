@@ -1,6 +1,6 @@
 
 # Data-Analyst-internship
-#TASK NO-1
+# TASK 1
 # Data Exploration and Summary
 
 ![Task 1](https://github.com/MMD-H/Data-Analyst-internship/assets/96936725/5d28c9e3-1e59-49f0-8eb0-7909075c4e03)
@@ -24,7 +24,8 @@
 ➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options. 
 ➤ Overall, the data highlights a young investor demographic focusing on long-term financial security.
 
-   TASK#-02   Gender-Based Analysis
+# TASK 2
+# Gender-Based Analysis
 
   ![Task 2](https://github.com/MMD-H/Data-Analyst-internship/assets/96936725/45fe4bf9-573a-425d-b5be-547e5f1b4255)
 
@@ -38,7 +39,7 @@
 
 ✤ 𝐕𝐢𝐬𝐮𝐚𝐥 𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐬𝐨𝐧
 ➤ I created comprehensive charts using Power BI to compare investment choices such as equity, mutual funds, and government bonds based on gender.
-➤ Used Clustered column chart and stacked column charts to highlight the investment distribution among male and female investors.
+➤ Used Clustered and stacked column charts to highlight the investment distribution among male and female investors.
 
 
 ➡️ 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
