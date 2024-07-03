@@ -1,3 +1,4 @@
+![Task 2](https://github.com/MMD-H/Data-Analyst-internship/assets/96936725/45fe4bf9-573a-425d-b5be-547e5f1b4255)
 # Data-Analyst-internship
 #TASK NO 1
 # Data Exploration and Summary
@@ -22,4 +23,25 @@
 ➤ Retirement planning is the primary savings objective for most individuals, followed by health care and education. 
 ➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options. 
 ➤ Overall, the data highlights a young investor demographic focusing on long-term financial security.
+
+                                                          TASK# 02   Gender-Based Analysis
+
+![Task 2](https://github.com/MMD-H/Data-Analyst-internship/assets/96936725/45fe4bf9-573a-425d-b5be-547e5f1b4255)
+
+► As a part of the Power-BI Internship at Cognifyz Technologies, I have been tasked to analyze and visualize gender-based differences in investment preferences.
+
+𝐓𝐚𝐬𝐤 𝟐  : Gender-based Analysis
+
+➡️𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: Analyze and visualize gender-based differences in investment preferences.
+
+➡️ 𝐒𝐭𝐞𝐩𝐬 𝐈 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐝:
+
+✤ 𝐕𝐢𝐬𝐮𝐚𝐥 𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐬𝐨𝐧
+➤ I created comprehensive charts using Power BI to compare investment choices such as equity, mutual funds, and government bonds based on gender.
+➤ Used Clustered column chart and stacked column charts to highlight the investment distribution among male and female investors.
+
+
+➡️ 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
+➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
+➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
 
