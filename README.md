@@ -47,12 +47,14 @@
 ➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
 ➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
 
+# TASK 4
+# Investment Duration & Frequency
+
+
 ![task 4](https://github.com/MMD-H/Cognifyz-Technologies-internship/assets/96936725/5a10fe45-6550-4288-a8e5-76cbf0825f7b)
 ► Hello Everyone, 
 As a part of Internship at Cognifyz Technologies, I have been tasked to analyze investment durations and monitoring frequencies.
 
-# TASK 4
-# Investment Duration & Frequency
 
 ➡️𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: To gain insights into how long investors hold their investments and how frequently they monitor them.
 
