@@ -1,4 +1,5 @@
 
+
 # Data-Analyst-internship
 # TASK 1
 # Data Exploration and Summary
@@ -45,4 +46,32 @@
 ➡️ 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
 ➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
 ➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
+
+![task 4](https://github.com/MMD-H/Cognifyz-Technologies-internship/assets/96936725/5a10fe45-6550-4288-a8e5-76cbf0825f7b)
+► Hello Everyone, 
+As a part of Internship at Cognifyz Technologies, I have been tasked to analyze investment durations and monitoring frequencies.
+
+# TASK 4
+# Investment Duration & Frequency
+
+➡️𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: To gain insights into how long investors hold their investments and how frequently they monitor them.
+
+➡️ 𝐒𝐭𝐞𝐩𝐬 𝐈 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐝 :
+
+✤ 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 :
+ I visualized the distribution of investment durations using bar charts in Power BI. This helped in identifying that the majority of investors prefer medium-term investments (1-5 years), with the highest number of investments falling in the 3-5 year category.
+
+✤ 𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
+ I analyzed investment monitoring frequencies through bar charts. The findings revealed that most investors monitor their investments on a monthly basis. I then examined how this monitoring frequency impacts their investment choices.
+
+➡️ 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 :
+
+➤ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 : The most popular investment choice among investors is Mutual Funds (18), followed by Equity (10), Fixed Deposits (9), and Public Provident Fund (3).
+
+➤ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 : A significant portion of investors prefer medium-term investments, with 3-5 years being the most common duration (19 investors), followed by 1-3 years (18 investors). Short-term investments (less than 1 year) and long-term investments (more than 5 years) are less preferred.
+
+➤ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲: Most investors monitor their investments on a monthly basis (29), whereas weekly (7) and daily monitoring (4) are less common.
+
+✨ This task enhanced my skills in data visualization and analysis using Power BI and provided valuable insights into investor behavior. 
+
 
